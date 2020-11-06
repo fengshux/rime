@@ -1,0 +1,12 @@
+
+patch:
+  "menu/page_size": 9  #候选词的个数(默认为5个)
+
+  ##########中西文切换Shift-->Ctrl
+  "ascii_composer/switch_key":
+    Control_L: inline_ascii
+    Control_R: noop
+    Shift_L: commit_code
+    Shift_R: commit_code
+  schema_list:
+    - {schema: luna_pinyin_simp}
