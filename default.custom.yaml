@@ -10,3 +10,4 @@ patch:
     Shift_R: commit_code
   schema_list:
     - {schema: luna_pinyin_simp}
+    - {schema: zhengma}
