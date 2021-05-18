@@ -1,6 +1,8 @@
 var:
-  last_build_time: 1620470139
-  previously_selected_schema: luna_pinyin_simp
+  last_build_time: 1621311885
+  option:
+    full_shape: false
+  previously_selected_schema: zhengma
   schema_access_time:
-    luna_pinyin_simp: 1620470162
-    zhengma: 1620470150
+    luna_pinyin_simp: 1621305067
+    zhengma: 1621308626
